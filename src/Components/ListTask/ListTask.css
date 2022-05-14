@@ -1,0 +1,18 @@
+.task-list{
+    display: flex;
+    flex-direction: column;
+    width: 560px;
+}
+.filter-buttons{
+  display: flex;
+  justify-content: space-between;
+  height: 45px;
+}
+.filter-buttons button  {
+    border-radius: 10px;
+    border: none;
+    color: aliceblue;
+}
+
+
+

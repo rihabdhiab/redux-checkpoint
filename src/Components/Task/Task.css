@@ -1,0 +1,29 @@
+.task{ 
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 10px;
+  margin-top: 10px;
+  background: linear-gradient(0.25turn,  #56c581,#bed6cc);
+  border-radius: 10px;
+}
+.task-buttons button{
+  margin-left: 10px;
+  border-radius: 10px;
+  padding: 10px 17px;
+  border: none; 
+  color: aliceblue;
+}
+.add-task{
+  background-color:rgb(176, 209, 192)
+}
+.add-task input {
+  width:100%;
+  height:40px;
+  border:rgb(30, 167, 92) 2px solid;
+  border-radius: 20px;
+  padding: 15px;
+  outline: none;
+}
+
+

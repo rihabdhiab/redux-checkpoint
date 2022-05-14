@@ -1,0 +1,21 @@
+
+body{
+    background-image: url(./images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.App {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top:30px;
+    margin-left: 200px;
+    font-family:cursive ;
+}
+
+h2{
+   color: rgb(59, 122, 104);
+   background-color: rgba(204, 204, 204, 0.753);
+   padding: 20px;
+}

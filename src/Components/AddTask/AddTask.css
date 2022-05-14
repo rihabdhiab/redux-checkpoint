@@ -1,0 +1,23 @@
+
+.addTask{
+    display:flex;
+    margin:10px ;
+}
+
+.addTask input{
+    width:500px;
+    height:55px;
+    border: solid 2px rgb(43, 163, 103);
+    outline: none;
+    padding: 15px;
+    border-radius: 20px 0px 0px 20px;
+    
+}
+.addTask button{
+    height: 55px;
+    width: 80px;
+    border:none;
+    border-radius: 0px 20px 20px 0px;
+    background-color: rgb(43, 163, 103);
+    color: aliceblue;
+}
